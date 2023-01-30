@@ -1,3 +1,8 @@
+---
+title: PAGE TITLE HERE
+layout: template
+filename: NAME OF THIS .md FILE HERE
+--- 
 Tutorial for remote server logging (sshing)
 
 Step 1: Getting access to your remote account
