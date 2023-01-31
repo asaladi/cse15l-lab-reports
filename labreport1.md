@@ -10,7 +10,7 @@ We will be using the terminal in Visual Studio Code, which you should download f
 
  - My screen may look different because it has a file open, on the home screen, there is an option to open files from your computer
 
-##Step 3: Downlading Git and opening the terminal
+## Step 3: Downlading Git and opening the terminal
 Download git for your computer for the operating system you are using with the [link:](https://git-scm.com/download/win). Once it is downloaded, open the terminal in Visual Studio Code. In the command pallette of VSC, type Select Default Profile and click on it. From the options your are given, select Git Bash. In the terminal window, press the "+" button and wait a few seconds for the bash terminal to load. 
 
 ## Step 4: Connecting to the Remote server
