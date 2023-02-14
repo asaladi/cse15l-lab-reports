@@ -24,7 +24,7 @@ This shows the same thing as in the first example, but we see that for some disp
 
 Source: https://phoenixnap.com/kb/less-command-in-linux
 
-***
+---
 
 ### Option #2: Finding words in the less viewer
 The finder option in the less viewer  
@@ -59,7 +59,7 @@ This repeats the same thing done in the first example, but it shows that the fin
 
 Source: https://phoenixnap.com/kb/less-command-in-linux
 
-***
+---
 
 ### Option #3: Open multiple files with less
 Viewing more than one file at a time  
@@ -97,7 +97,7 @@ With this command, we can see all 9 txt files in the Kauffman directory, without
 
 Source: https://phoenixnap.com/kb/less-command-in-linux
 
-***
+---
 
 ### Option #4: Create bookmarks in the file
 Markdown places you want to return to while viewing your file, even after closing it.  
