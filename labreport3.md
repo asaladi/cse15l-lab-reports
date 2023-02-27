@@ -1,5 +1,5 @@
 # Lab Report 3
-## Researching Commands: Less command options 
+## Researching Commands: Less command options and uses 
 
 ### Option #1: -N
 Shows line numbers when viewing file with less
