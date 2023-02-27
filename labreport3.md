@@ -24,7 +24,7 @@ This shows the same thing as in the first example, but we see that for some disp
 
 The -N option would be useful when opening a file and wanting to know which line you are on in the file, if you want to use it as refernece for then or later.
 
-Source: https://phoenixnap.com/kb/less-command-in-linux
+Source: [https://phoenixnap.com/kb/less-command-in-linux](https://phoenixnap.com/kb/less-command-in-linux)
 
 ---
 
@@ -61,7 +61,7 @@ This repeats the same thing done in the first example, but it shows that the fin
 
 The finder option would be useful when trying to look for specific key words in a text  file you are looking through. It acts like a ctrl-f but in file readers.
 
-Source: https://phoenixnap.com/kb/less-command-in-linux
+Source: [https://phoenixnap.com/kb/less-command-in-linux](https://phoenixnap.com/kb/less-command-in-linux)
 
 ---
 
@@ -101,7 +101,7 @@ With this command, we can see all 9 txt files in the Kauffman directory, without
 
 The option to view multiple files at a time would be useful when you need two files opened atthe same time to compare them or use the infromation from both articles in a way.
 
-Source: https://phoenixnap.com/kb/less-command-in-linux
+Source: [https://phoenixnap.com/kb/less-command-in-linux](https://phoenixnap.com/kb/less-command-in-linux)
 
 ---
 
@@ -157,4 +157,4 @@ bookmark b:
 
 This shows that multiple bookmarks can be made with different names.
 
-Source: https://phoenixnap.com/kb/less-command-in-linux
+Source: [https://phoenixnap.com/kb/less-command-in-linux](https://phoenixnap.com/kb/less-command-in-linux)
