@@ -36,6 +36,7 @@ cd lab7
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 <enter>
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
+<enter>
 ```
   
 The result should look like this:
@@ -50,23 +51,36 @@ Press the down arrow key until you reach the ```index1 += 1;``` in the while loo
 ```
 while(index2 < list2.size()) {
       result.add(list2.get(index2));
-      index1 += 1; //put cursor at begining of this line
+      index1 += 1; 
     }
 ```
-
-
+Press the right key until the cursor is at the end of ```index1```` on that line, then press backspace the the 2 key to change that line to:
+```
+while(index2 < list2.size()) {
+      result.add(list2.get(index2));
+      index2 += 1; 
+    }
+```
+To exit the code editor, press Ctrl and X at the same time, then type y, then press the <Enter> key
 
 The result should look like this:
 ![image](https://user-images.githubusercontent.com/122575267/221661158-83f9b1ae-7d29-4f7f-971b-c9a2d56dee95.png)
-
 Editing the code
-```
+  
+![image](https://user-images.githubusercontent.com/122575267/221663736-27f6b8b0-fe35-46e8-829a-138d81f1daf7.png)
+After the step is done
 
-
-
-Step 5: Run the tests, demonstrating that they now succeed
-
-The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 4 up in the search history, so I used up arrow to access it. Then the java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore command was 4 up in the history, so I accessed and ran it in the same way.
-
+## Step 5: Run the tests, demonstrating that they now succeed
+The commands to run the tests again are saved in the terminal. Run the compile, then the run commands to run the tests. 
+  
+To go to the compile command:
+Press the up arrow key 3 times to get the ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command, then press the <enter> key
+  
+To go to the run command
+Press the up arrow key 3 times to get the ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command, then press the <enter> key
+  
+The result should look like this:
+![image](https://user-images.githubusercontent.com/122575267/221665095-05c7e153-cf90-496d-93f8-f45fb55799de.png)
 
 Step 6: Commit and push the resulting change to your Github account
+
