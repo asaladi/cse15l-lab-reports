@@ -22,6 +22,8 @@ Output:
 
 This shows the same thing as in the first example, but we see that for some display lines they are not enough to fit a full line from the text, so there will be multiple line 6s, or 10s, or 11s.
 
+The -N option would be useful when opening a file and wanting to know which line you are on in the file, if you want to use it as refernece for then or later.
+
 Source: https://phoenixnap.com/kb/less-command-in-linux
 
 ---
@@ -56,6 +58,8 @@ Output:
 ![image](https://user-images.githubusercontent.com/122575267/218640665-4afb5185-e579-4d42-9ea8-7e0c06ca06ca.png)
 
 This repeats the same thing done in the first example, but it shows that the finder is case sensitive (only highlights captial The but not lowercase the). To make it not case sensitive, you have to use the "-i" option in the first command.
+
+The finder option would be useful when trying to look for specific key words in a text  file you are looking through. It acts like a ctrl-f but in file readers.
 
 Source: https://phoenixnap.com/kb/less-command-in-linux
 
@@ -95,12 +99,14 @@ Output:
 
 With this command, we can see all 9 txt files in the Kauffman directory, without having to type out every name of the file in the directory. We know this because it says so in the bottom left corner where it says "(file 1 out of 9)".
 
+The option to view multiple files at a time would be useful when you need two files opened atthe same time to compare them or use the infromation from both articles in a way.
+
 Source: https://phoenixnap.com/kb/less-command-in-linux
 
 ---
 
 ### Option #4: Create bookmarks in the file
-Markdown places you want to return to while viewing your file, even after closing it.  
+Marks down places you want to return to while viewing your file, even after closing it.  
 
 Example #1:
 ```
@@ -120,7 +126,7 @@ This creates a bookmarks named "a". To return to it...
 Output:
 ![image](https://user-images.githubusercontent.com/122575267/218641951-e89f585b-1331-43b6-a792-d8a870b93dca.png)
 
-Even after scrolling further down the file, or closing out of it, using the " 'a " command takes us back to line 20 in the txt file Bahamas-History.txt.
+Even after scrolling further down the file, or closing out of it, using the " 'a " command takes us back to line 50 in the txt file Bahamas-History.txt. This suggests that the m feature makes bookmarks in the text with whatever character to assign it to.
 
 Example #2:
 ```
