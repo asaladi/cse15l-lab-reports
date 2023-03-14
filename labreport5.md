@@ -55,7 +55,7 @@ This is an example of filtering for file permisions based on whether it is execu
 
 The -perm option would be useful as a way of filtering the permissions of the file and help look at which files for permissions could be useful.
 
-Source: [https://www.tecmint.com/35-practical-examples-of-linux-find-command/](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
+Source: [Link](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
 
 ---
 
