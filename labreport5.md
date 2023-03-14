@@ -1,5 +1,6 @@
 # Lab Report 5
-## Researching Commands: Find command options and uses 
+## Looking back at Lab Report 3
+In lab report 3, we looked at all the options for the less command in bash and explored their examples in the written_2 repository. In this lab report, we return to this with the find bash command.
 
 ### Option #1: -size
 Filters found files based on file size
