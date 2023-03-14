@@ -26,7 +26,7 @@ This shows the same thing as in the first example, but the size parameter can be
 
 The -size option would be useful when trying to filter files of a certain size, if you wanted to know the size of the files you want to manipulate.
 
-Source: [[https://phoenixnap.com/kb/less-command-in-linux](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)]([https://phoenixnap.com/kb/less-command-in-linux](https://www.tecmint.com/35-practical-examples-of-linux-find-command/))
+Source: [https://www.tecmint.com/35-practical-examples-of-linux-find-command/](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
 
 ---
 
@@ -55,7 +55,7 @@ This is an example of filtering for file permisions based on whether it is execu
 
 The -perm option would be useful as a way of filtering the permissions of the file and help look at which files for permissions could be useful.
 
-Source: [[https://phoenixnap.com/kb/less-command-in-linux](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)]([https://phoenixnap.com/kb/less-command-in-linux](https://www.tecmint.com/35-practical-examples-of-linux-find-command/))
+Source: [https://www.tecmint.com/35-practical-examples-of-linux-find-command/](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
 
 ---
 
@@ -85,7 +85,7 @@ This example is like the first one, but it for "to". This shows that the command
 
 The -iname option would be useful so that case sensitivity would not have to be worried about when looking for files
 
-Source: [[https://phoenixnap.com/kb/less-command-in-linux](https://geekflare.com/linux-find-commands/)]([https://phoenixnap.com/kb/less-command-in-linux](https://geekflare.com/linux-find-commands/))
+Source: [https://www.tecmint.com/35-practical-examples-of-linux-find-command/](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
 
 ---
 
@@ -114,4 +114,4 @@ The image shows that multiple files can be deleted, based on whatever pattern is
 
 The -exec rm command would be useful for completing two actions in one, finding a file and removing it.
 
-Source: [[https://phoenixnap.com/kb/less-command-in-linux](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)]([https://phoenixnap.com/kb/less-command-in-linux](https://www.tecmint.com/35-practical-examples-of-linux-find-command/))
+Source: [https://www.tecmint.com/35-practical-examples-of-linux-find-command/](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
